@@ -11,6 +11,9 @@ npm run build    # production build (outputs to /dist)
 npm run preview  # preview the production build
 ```
 
+## Homepage
+<img width="1368" height="634" alt="portfolio img" src="https://github.com/user-attachments/assets/4a4311b1-d4b5-4114-a431-e0c496a39d57" />
+
 ## Project Structure
 
 ```
